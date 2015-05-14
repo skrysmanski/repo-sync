@@ -1,0 +1,1 @@
+A tool that synchronizes working copies of different version control system.
